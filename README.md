@@ -4,6 +4,9 @@ Lien du dataset disponible ici : https://www.kaggle.com/msambare/fer2013
 
 Lien des CSV déjà prêt ici : https://drive.google.com/drive/folders/1audrS6_TG7IjBRYRswDWtzrRjHRUVo-c?usp=sharing
 
+Le dataset est à placer dans le répertoire "Dossier" présent à la racine de ce projet.
+Les CSV sont à placer à la racine de ce projet. 
+
 Projet réalisé avec NumPy, OpenCV, et Keras + Tensorflow.
 Utilisation de Google Collab pour entraîner le model, et utilisation de Jupyter Notebook en local. 
 
