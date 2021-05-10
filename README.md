@@ -1,4 +1,4 @@
-# "Reconnaissance d’émotions sur un visage"
+# Reconnaissance d’émotions sur un visage
 
 Lien du dataset disponible ici : https://www.kaggle.com/msambare/fer2013
 
