@@ -17,18 +17,18 @@ L'archive et les CSV sont indiqués juste au-dessus, le model est quant à lui d
 ## Comment lancer les deux scripts
 
 ### Script Image 
-
+```
 python scriptImage.py 
-
+```
 Une fois la caméra lancée, appuyer sur espace pour prendre une photo. 
 Se rendre sur ./StockImagesOpenCV/normal pour obtenir le résultat de sa photo. 
 Pour se faire, des images sont stockées en continues sur ./StockImagesOpenCV/48x48 puis supprimés lorsqu'on quitte le script. 
 Pour quitter, appuyer sur ECHAP. 
 
 ### Script vidéo 
-
+```
 python scriptVideo.py
-
+```
 Une fois la caméra lancée, affichage en temps réel sur le visage les émotions de l'utilisateur.
 Pour se faire, des images sont stockées en continues sur ./StockImagesOpenCV/48x48 puis supprimés lorsqu'on quitte le script. 
 Pour quitter, appuyer sur ECHAP. 
